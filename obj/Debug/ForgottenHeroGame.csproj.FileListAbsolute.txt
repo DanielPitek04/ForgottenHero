@@ -1,0 +1,10 @@
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\bin\Debug\ForgottenHeroGame.exe.config
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\bin\Debug\ForgottenHeroGame.exe
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\bin\Debug\ForgottenHeroGame.pdb
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\obj\Debug\ForgottenHeroGame.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\obj\Debug\ForgottenHeroGame.Form1.resources
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\obj\Debug\ForgottenHeroGame.Properties.Resources.resources
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\obj\Debug\ForgottenHeroGame.csproj.GenerateResource.cache
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\obj\Debug\ForgottenHeroGame.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\obj\Debug\ForgottenHeroGame.exe
+C:\Users\danie\Source\Repos\forgottenHeroBeta\ForgottenHeroGame\obj\Debug\ForgottenHeroGame.pdb
